@@ -1,0 +1,16 @@
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\Kodolo.exe
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\Kodolo.deps.json
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\Kodolo.runtimeconfig.json
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\Kodolo.runtimeconfig.dev.json
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\Kodolo.dll
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\ref\Kodolo.dll
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\bin\Debug\net5.0\Kodolo.pdb
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.csprojAssemblyReference.cache
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.AssemblyInfoInputs.cache
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.AssemblyInfo.cs
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.csproj.CoreCompileInputs.cache
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.dll
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\ref\Kodolo.dll
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.pdb
+C:\Users\Hadobas Daniel\source\repos\Kodolo\Kodolo\obj\Debug\net5.0\Kodolo.genruntimeconfig.cache
